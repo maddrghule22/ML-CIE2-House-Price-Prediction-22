@@ -79,8 +79,8 @@ ML-CIE2-House-Price-Prediction-22/
 
 ## 📈 Trained Model Parameters & Mathematical Equation
 The Ordinary Least Squares (OLS) estimator yielded the following parameters:
-- **Slope Coefficient ($eta_1$)**: `0.4193`
-- **Y-Intercept ($eta_0$)**: `0.4446`
+- **Slope Coefficient ($\beta_1$)**: `0.4193`
+- **Y-Intercept ($\beta_0$)**: `0.4446`
 
 ### Fitted Regression Equation:
 $$\text{Predicted MedHouseVal} = 0.4446 + (0.4193 \times \text{MedInc})$$
